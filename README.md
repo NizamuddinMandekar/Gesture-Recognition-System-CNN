@@ -1,15 +1,14 @@
-# Repository Name
+# Gesture-Recognition-System-CNN
 
 ## Description
 
-This repository contains code for a deep learning project focusing on image classification using convolutional neural networks (CNNs). The code is written in Python and utilizes libraries such as Keras, TensorFlow, NumPy, Pandas, Matplotlib, Seaborn, and OpenCV.
+This repository contains code for a Deep learning project focusing on image classification using Convolutional Neural networks (CNNs). The code is written in Python and utilizes libraries such as Keras, TensorFlow, NumPy, Pandas, Matplotlib, Seaborn, and OpenCV.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -18,7 +17,7 @@ To run this code locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/NizamuddinMandekar/repository.git
+git clone https://github.com/NizamuddinMandekar/Gesture-Recognition-System-CNN.git
 ```
 
 2. Install the required dependencies using pip:
