@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains code for a Deep learning project focusing on image classification using Convolutional Neural networks (CNNs). The code is written in Python and utilizes libraries such as Keras, TensorFlow, NumPy, Pandas, Matplotlib, Seaborn, and OpenCV.
+This repository contains code for a Deep learning project focusing on  Gesture-Recognition using Convolutional Neural networks (CNNs). The code is written in Python and utilizes libraries such as Keras, TensorFlow, NumPy, Pandas, Matplotlib, Seaborn, and OpenCV.
 
 ## Table of Contents
 
